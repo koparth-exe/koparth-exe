@@ -4,3 +4,5 @@ pillow
 numpy
 opencv-python
 rembg
+opencv-python
+rembg[cpu]

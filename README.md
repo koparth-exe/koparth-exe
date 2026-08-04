@@ -12,7 +12,7 @@
 
 <h3><code>parth@github ~ $ ./contributions.sh</code></h3>
 <!-- Changed this line from streak.svg to contrib-heatmap.svg -->
-<img src="./contrib-heatmap.svg" width="860" />
+<img src="./streak.svg." width="860" />
 
 <br><br>
 

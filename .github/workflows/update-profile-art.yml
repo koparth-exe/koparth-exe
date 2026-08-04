@@ -1,4 +1,3 @@
-
 name: Update profile art
 
 on:
@@ -15,10 +14,7 @@ jobs:
   build_art:
     runs-on: ubuntu-latest
     env:
-      # Change this to your actual GitHub username!
-      GH_PROFILE_USER: "YOUR_GITHUB_USERNAME_HERE"
-      
-      # Personalizes the 3D Wordmark script
+      GH_PROFILE_USER: "koparth-exe"
       WORDMARK_TEXT: "PARTH"
       WORDMARK_FONT: "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
       WORDMARK_FONT_INDEX: "0"

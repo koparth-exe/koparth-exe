@@ -1,17 +1,6 @@
-## Hi there 👋
 <div align="center">
 
-<h3><code>parth@github ~$ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
-
-<br><br>
-
-<h3><code>parth@github ~$ ./streak.sh</code></h3>
-<img src="./streak.svg" width="860" />
-
-<br><br>
-
-<h3><code>parth@github ~$ whoami</code></h3>
+<h3><code>parth@github ~ $ whoami</code></h3>
 <table>
   <tr>
     <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
@@ -19,21 +8,21 @@
   </tr>
 </table>
 
+<br><br>
+
+<h3><code>parth@github ~ $ ./contributions.sh</code></h3>
+<img src="./streak.svg" width="860" />
+
+<br><br>
+
+<h3><code>parth@github ~ $ ./links.sh</code></h3>
+<p><b>AI & Data Science Student · Developer</b></p>
+
+<!-- You can replace the href="..." links with your actual URLs! -->
+<a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/PORTFOLIO-koparth--exe.github.io-30363d?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" /></a>
+<br>
+<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LINKEDIN-Parth_Korgaonkar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" /></a>
+<br>
+<a href="YOUR_INSTAGRAM_LINK"><img src="https://img.shields.io/badge/INSTAGRAM-koparth_exe-e1306c?style=for-the-badge&logo=instagram&logoColor=white&labelColor=161b22" /></a>
+
 </div>
-
-
-
-<!--
-**koparth-exe/koparth-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

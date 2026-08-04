@@ -6,3 +6,4 @@ opencv-python
 rembg
 opencv-python
 rembg[cpu]
+onnxruntime

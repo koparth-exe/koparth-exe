@@ -49,7 +49,7 @@ FONT_PATH = os.environ.get("WORDMARK_FONT", "/System/Library/Fonts/Futura.ttc")
 FONT_INDEX = int(os.environ.get("WORDMARK_FONT_INDEX", 2))   # face within a .ttc
 # three letters across the full width leaves ~30 grid columns each, which is what
 # lets the cells be big enough to read as characters rather than as dither.
-TEXT = os.environ.get("WORDMARK_TEXT", "AVI")
+TEXT = os.environ.get("WORDMARK_TEXT", "PARTH")
 
 MASK_H = 300           # glyph raster height in mask px (drives voxel density)
 TRACKING = 0.14        # extra letter-spacing, in em. counter gaps must survive the

@@ -45,4 +45,5 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: generate automated profile art [skip ci]"
-          file_pattern: "*.svg *.png scripts/contrib.json data/contributions.json"
+          # Only saving the actual generated files now!
+          file_pattern: "*.svg *.png data/contributions.json"

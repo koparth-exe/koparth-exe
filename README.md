@@ -11,7 +11,6 @@
 <br><br>
 
 <h3><code>parth@github ~ $ ./contributions.sh</code></h3>
-<!-- This points to the hybrid script we just saved! -->
 <img src="./streak.svg" width="860" />
 
 <br><br>
@@ -21,6 +20,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-parth--korgaonkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-korgaonkar)
 [![Gmail](https://img.shields.io/badge/Gmail-parth.korgaonkar07-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parth.korgaonkar07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-koparth--exe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koparth-exe)
+[![LeetCode](https://img.shields.io/badge/LeetCode-koparth--exe-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/koparth-exe)
 
 </div>

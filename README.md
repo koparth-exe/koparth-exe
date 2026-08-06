@@ -21,5 +21,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-parth--korgaonkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-korgaonkar)
 [![Gmail](https://img.shields.io/badge/Gmail-parth.korgaonkar07-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parth.korgaonkar07@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-koparth--exe-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/koparth-exe)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-parthkorgd4rx-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/parthkorgd4rx/)
 
 </div>
